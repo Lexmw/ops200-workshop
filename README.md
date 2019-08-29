@@ -1,0 +1,1 @@
+This workshop explores how to configure webpack to bundle your files before you send them to the browser. Webpack is a bundler that repackages and sends your file to make it more efficient.
